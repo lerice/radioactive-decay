@@ -45,7 +45,6 @@ export class Atoms extends React.PureComponent<Props> {
         ));
       }
     }
-    // const remainderInitialSubstance = initialSample % constants.ATOM_GRAPHIC_SUBSTANCE;
 
     return (
       <AtomsWrapper>
